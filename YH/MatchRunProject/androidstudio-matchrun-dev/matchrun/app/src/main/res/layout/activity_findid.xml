@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/findid"
+    tools:context=".login.findidActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/imgfindidview"
+            android:layout_width="match_parent"
+            android:layout_height="65dp"
+            android:layout_marginTop="35dp"
+            app:srcCompat="@drawable/id_title_search" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="55dp"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/editname"
+                android:layout_width="330dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="40dp"
+                android:background="@drawable/sen4"
+                android:ems="10"
+                android:fontFamily="sans-serif-medium"
+                android:hint="실명"
+                android:inputType="textPersonName"
+                android:paddingLeft="20dp" />
+
+            <EditText
+                android:id="@+id/editsubemail"
+                android:layout_width="330dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/sen4"
+                android:ems="10"
+                android:hint="이메일(본인확인용)"
+                android:inputType="textPersonName"
+                android:paddingLeft="20dp" />
+
+            <Spinner
+                android:id="@+id/question"
+                android:layout_width="330dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/textview"
+                android:paddingLeft="10dp" />
+
+            <EditText
+                android:id="@+id/editquestionAn"
+                android:layout_width="330dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/sen4"
+                android:ems="10"
+                android:hint="질문 정답 입력"
+                android:inputType="textPersonName"
+                android:paddingLeft="20dp" />
+
+            <ImageView
+                android:id="@+id/imgSer1"
+                android:layout_width="330dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="10dp"
+                app:srcCompat="@drawable/idser" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

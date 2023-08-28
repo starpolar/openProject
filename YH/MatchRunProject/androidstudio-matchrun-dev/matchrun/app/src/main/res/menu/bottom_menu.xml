@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/firstFragment"
+        android:enabled="true"
+        android:icon="@drawable/memu_icon01"
+        android:title="체육관위치" />
+    <item
+        android:id="@+id/secondFragment"
+        android:enabled="true"
+        android:icon="@drawable/memu_icon02"
+        android:title="매칭" />
+    <item
+        android:id="@+id/thirdFragment"
+        android:title=""
+        android:enabled="false"/>
+    <item
+        android:id="@+id/forthFragment"
+        android:enabled="true"
+        android:icon="@drawable/menu_icon03"
+        android:title="채팅" />
+    <item
+        android:id="@+id/fifthFragment"
+        android:enabled="true"
+        android:icon="@drawable/memu_icon04"
+        android:title="내정보" />
+</menu>

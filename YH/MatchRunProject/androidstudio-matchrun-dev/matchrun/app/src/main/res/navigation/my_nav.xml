@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/thirdFragment">
+
+    <fragment
+        android:id="@+id/firstFragment"
+        android:name="com.ygh547.matchrun.Fragment.firstFragment"
+        android:label="fragment_first"
+        tools:layout="@layout/fragment_first" />
+    <fragment
+        android:id="@+id/secondFragment"
+        android:name="com.ygh547.matchrun.Fragment.secondFragment"
+        android:label="fragment_second"
+        tools:layout="@layout/fragment_second" />
+    <fragment
+        android:id="@+id/thirdFragment"
+        android:name="com.ygh547.matchrun.Fragment.thirdFragment"
+        android:label="fragment_third"
+        tools:layout="@layout/fragment_third" />
+    <fragment
+        android:id="@+id/forthFragment"
+        android:name="com.ygh547.matchrun.Fragment.forthFragment"
+        android:label="fragment_forth"
+        tools:layout="@layout/fragment_forth" />
+    <fragment
+        android:id="@+id/fifthFragment"
+        android:name="com.ygh547.matchrun.Fragment.fifthFragment"
+        android:label="fragment_fifth"
+        tools:layout="@layout/fragment_fifth" />
+</navigation>
