@@ -4,6 +4,7 @@
 > https://www.kaggle.com/datasets/khairullahhamsafar/hotels-booking-data-cleaned-version
 ## Model
 > GRU
+
 &nbsp;
 ## Progress
 ### Data Parsing
