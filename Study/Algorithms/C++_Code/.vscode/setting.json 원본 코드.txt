@@ -1,0 +1,8 @@
+{
+    "git.autofetch": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "git.openRepositoryInParentFolders": "never",
+    "terminal.integrated.automationProfile.windows": {},
+    "cmake.configureOnOpen": true,
+    "files.encoding": "euckr"
+}
