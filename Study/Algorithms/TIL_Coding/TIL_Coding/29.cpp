@@ -1,19 +1,30 @@
-ï»¿//10951	A + B - 4
-//ë°˜ë³µë¬¸
+//10807	°³¼ö ¼¼±â
+//¹è¿­
 
 #include <iostream>
 using namespace std;
+#include <vector>
 
 int main() {
-	int a, b;
-	for (; ;) {
-		if (cin >> a >> b) {
-			cout << a + b << '\n';
-		}
-		else {
-			break;
+	int n;
+	cin >> n;
+
+	vector<int> x(n);
+	for (int i = 0; i < n; i++) {
+		cin >> x[i];
+	}
+
+	int v;
+	cin >> v;
+
+	int count = 0;
+	for (int i = 0; i < n; i++) {
+		if (x[i] == v) {
+			count++;
 		}
 	}
-	
+
+	cout << count << '\n';
+
 	return 0;
 }

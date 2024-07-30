@@ -1,4 +1,4 @@
-//10807	개수 세기
+//10871 X보다 작은 수
 //배열
 
 #include <iostream>
@@ -6,25 +6,16 @@ using namespace std;
 #include <vector>
 
 int main() {
-	int n;
-	cin >> n;
+	int n, x;
+	cin >> n >> x;
 
-	vector<int> x(n);
+	vector<int> v(n);
 	for (int i = 0; i < n; i++) {
-		cin >> x[i];
-	}
-
-	int v;
-	cin >> v;
-
-	int count = 0;
-	for (int i = 0; i < n; i++) {
-		if (x[i] == v) {
-			count++;
+		cin >> v[i];
+		if (v[i] < x) {
+			cout << v[i] << ' ';
 		}
 	}
-
-	cout << count << '\n';
 
 	return 0;
 }

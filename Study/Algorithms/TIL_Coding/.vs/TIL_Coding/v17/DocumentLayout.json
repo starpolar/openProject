@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "30.cpp",
-              "DocumentMoniker": "C:\\Users\\starp\\OneDrive\\Develop\\Project\\Study\\Algorithms\\TIL_Coding\\TIL_Coding\\30.cpp",
-              "RelativeDocumentMoniker": "TIL_Coding\\30.cpp",
-              "ToolTip": "C:\\Users\\starp\\OneDrive\\Develop\\Project\\Study\\Algorithms\\TIL_Coding\\TIL_Coding\\30.cpp",
-              "RelativeToolTip": "TIL_Coding\\30.cpp",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAUwB0AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-29T00:18:00.586Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -41,14 +28,23 @@
               "RelativeDocumentMoniker": "TIL_Coding\\29.cpp",
               "ToolTip": "C:\\Users\\starp\\OneDrive\\Develop\\Project\\Study\\Algorithms\\TIL_Coding\\TIL_Coding\\29.cpp",
               "RelativeToolTip": "TIL_Coding\\29.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwB0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-27T09:15:18.073Z",
+              "WhenOpened": "2024-07-30T00:38:30.75Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "30.cpp",
+              "DocumentMoniker": "C:\\Users\\starp\\OneDrive\\Develop\\Project\\Study\\Algorithms\\TIL_Coding\\TIL_Coding\\30.cpp",
+              "RelativeDocumentMoniker": "TIL_Coding\\30.cpp",
+              "ToolTip": "C:\\Users\\starp\\OneDrive\\Develop\\Project\\Study\\Algorithms\\TIL_Coding\\TIL_Coding\\30.cpp",
+              "RelativeToolTip": "TIL_Coding\\30.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-30T00:38:12.831Z",
+              "EditorCaption": ""
             }
           ]
         }
