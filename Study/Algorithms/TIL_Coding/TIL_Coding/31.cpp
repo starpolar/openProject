@@ -79,15 +79,15 @@ int main() {
 
 
 //#include <iostream>
-//#include <algorithm> // std::min, std::max
+//#include <climits>
 //using namespace std;
 //
 //int main() {
 //	int N;
 //	cin >> N;
 //
-//	int minValue = 1;
-//	int maxValue = 1000000;
+//	int minValue = INT_MAX;
+//	int maxValue = INT_MIN;
 //
 //	for (int i = 0; i < N; ++i) {
 //		int num;
