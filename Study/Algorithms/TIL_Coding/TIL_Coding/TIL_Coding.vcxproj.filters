@@ -13,15 +13,12 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\7월">
-      <UniqueIdentifier>{f9d589e3-7dc0-4208-94d3-b509d7ed42b7}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\8월">
-      <UniqueIdentifier>{29ae1cf3-4598-4b60-a3ab-fce0ffa0d9ff}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="5.cpp">
+    <ClCompile Include="7.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
