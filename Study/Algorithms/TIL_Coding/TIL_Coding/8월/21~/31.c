@@ -5,6 +5,9 @@ void convert_to_base(int n, int base) {
     int index = 0;
 
     // 변환 작업
+    // 즉, 나눈거에서 또 나누게 되니
+    // 첫번째 나눈게 b^0 의 지수값과 같게 되고
+    // 두번째는 b^1로 같게 되는것. 나머지는 자리값이 된다.
     while (n > 0) {
         int remainder = n % base;
         if (remainder < 10) {
