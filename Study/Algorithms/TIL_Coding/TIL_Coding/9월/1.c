@@ -2,10 +2,13 @@
 #include <math.h>
 
 int main() {
-    int n;
+    int n, jisu = 1;
     scanf("%d", &n);
 
-    int sideLength = pow(2, n) + 1;  // 한 변에 있는 점의 수
+    for (int i = 0; i < n; i++) {
+        jisu *= 2;
+    }
+    int sideLength = jisu + 1;  // 한 변에 있는 점의 수
     int totalPoints = sideLength * sideLength;  // 전체 점의 수
 
     printf("%d\n", totalPoints);
