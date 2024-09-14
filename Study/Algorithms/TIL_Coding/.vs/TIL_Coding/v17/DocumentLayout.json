@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\starp\\OneDrive\\Develop\\Project\\Study\\Algorithms\\TIL_Coding\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3E0DFA6-9ACE-4DB0-B9DE-D153C2D3AECE}|TIL_Coding\\TIL_Coding.vcxproj|C:\\Users\\starp\\OneDrive\\Develop\\Project\\Study\\Algorithms\\TIL_Coding\\TIL_Coding\\9\uC6D4\\13.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B3E0DFA6-9ACE-4DB0-B9DE-D153C2D3AECE}|TIL_Coding\\TIL_Coding.vcxproj|solutionrelative:TIL_Coding\\9\uC6D4\\13.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B3E0DFA6-9ACE-4DB0-B9DE-D153C2D3AECE}|TIL_Coding\\TIL_Coding.vcxproj|C:\\Users\\starp\\OneDrive\\Develop\\Project\\Study\\Algorithms\\TIL_Coding\\TIL_Coding\\9\uC6D4\\14.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3E0DFA6-9ACE-4DB0-B9DE-D153C2D3AECE}|TIL_Coding\\TIL_Coding.vcxproj|solutionrelative:TIL_Coding\\9\uC6D4\\14.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3E0DFA6-9ACE-4DB0-B9DE-D153C2D3AECE}|TIL_Coding\\TIL_Coding.vcxproj|C:\\Users\\starp\\OneDrive\\Develop\\Project\\Study\\Algorithms\\TIL_Coding\\TIL_Coding\\9\uC6D4\\12.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B3E0DFA6-9ACE-4DB0-B9DE-D153C2D3AECE}|TIL_Coding\\TIL_Coding.vcxproj|solutionrelative:TIL_Coding\\9\uC6D4\\12.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B3E0DFA6-9ACE-4DB0-B9DE-D153C2D3AECE}|TIL_Coding\\TIL_Coding.vcxproj|C:\\Users\\starp\\OneDrive\\Develop\\Project\\Study\\Algorithms\\TIL_Coding\\TIL_Coding\\9\uC6D4\\13.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3E0DFA6-9ACE-4DB0-B9DE-D153C2D3AECE}|TIL_Coding\\TIL_Coding.vcxproj|solutionrelative:TIL_Coding\\9\uC6D4\\13.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -16,6 +16,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\starp\\OneDrive\\Develop\\Project\\Study\\Algorithms\\TIL_Coding\\TIL_Coding\\9\uC6D4\\11-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TIL_Coding\\9\uC6D4\\11-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\starp\\OneDrive\\Develop\\Project\\Study\\Algorithms\\TIL_Coding\\TIL_Coding\\9\uC6D4\\12.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TIL_Coding\\9\uC6D4\\12.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,11 +29,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 182,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "13.c",
               "DocumentMoniker": "C:\\Users\\starp\\OneDrive\\Develop\\Project\\Study\\Algorithms\\TIL_Coding\\TIL_Coding\\9\uC6D4\\13.c",
               "RelativeDocumentMoniker": "TIL_Coding\\9\uC6D4\\13.c",
@@ -37,12 +41,25 @@
               "RelativeToolTip": "TIL_Coding\\9\uC6D4\\13.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-09-13T10:47:16.009Z",
+              "WhenOpened": "2024-09-14T14:05:12.966Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "14.c",
+              "DocumentMoniker": "C:\\Users\\starp\\OneDrive\\Develop\\Project\\Study\\Algorithms\\TIL_Coding\\TIL_Coding\\9\uC6D4\\14.c",
+              "RelativeDocumentMoniker": "TIL_Coding\\9\uC6D4\\14.c",
+              "ToolTip": "C:\\Users\\starp\\OneDrive\\Develop\\Project\\Study\\Algorithms\\TIL_Coding\\TIL_Coding\\9\uC6D4\\14.c",
+              "RelativeToolTip": "TIL_Coding\\9\uC6D4\\14.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-14T14:05:05.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "12.c",
               "DocumentMoniker": "C:\\Users\\starp\\OneDrive\\Develop\\Project\\Study\\Algorithms\\TIL_Coding\\TIL_Coding\\9\uC6D4\\12.c",
               "RelativeDocumentMoniker": "TIL_Coding\\9\uC6D4\\12.c",
@@ -63,8 +80,7 @@
               "RelativeToolTip": "TIL_Coding\\9\uC6D4\\11-2.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-09-12T01:09:00.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T01:09:00.829Z"
             },
             {
               "$type": "Document",
