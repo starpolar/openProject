@@ -21,7 +21,7 @@ int main() {//5073	삼각형과 세 변, 기하: 직사각형과 삼각형
         else if (a == b && b == c && a == c) printf("Equilateral");
         else if (a == b || b == c || a == c) printf("Isosceles");
         else printf("Scalene");
-        printf("\n");
+        printf("\n"); // 없거나, 추가로 더 출력하면 오류지만. 마지막 라인은 넘어가는듯.
     }
 
     return 0;
