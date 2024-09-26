@@ -2,9 +2,9 @@
 #include <string.h>
 
 int main() {
-	char result = '1';
-	//scanf("%s", &result);
-	printf("%d", (int)result);
+	long a;
+	a = 3;
+	printf("%d\n", sizeof(a));
 
 	return 0;
 }
