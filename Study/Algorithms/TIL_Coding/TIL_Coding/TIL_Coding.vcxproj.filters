@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="9월\26.c">
+    <ClCompile Include="9월\27.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
