@@ -14,7 +14,7 @@ int main() {
         isPrime[i] = true;
     }
 
-    // 소수 판별 - 에라토스테네스의 체
+    // 소수 판별 - 에라토스테네스의 체 : 배수를 모두 제거한다면 남은건 모두 소수임.
     for (int i = 2; i * i <= MAX; i++) {
         if (isPrime[i]) {
             for (int j = i * i; j <= MAX; j += i) {
