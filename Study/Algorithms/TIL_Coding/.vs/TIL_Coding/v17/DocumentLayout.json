@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\KOSTA\\OneDrive\\Develop\\Project\\Study\\Algorithms\\TIL_Coding\\",
+  "WorkspaceRootPath": "C:\\Users\\starp\\OneDrive\\Develop\\Project\\Study\\Algorithms\\TIL_Coding\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3E0DFA6-9ACE-4DB0-B9DE-D153C2D3AECE}|TIL_Coding\\TIL_Coding.vcxproj|C:\\Users\\KOSTA\\OneDrive\\Develop\\Project\\Study\\Algorithms\\TIL_Coding\\TIL_Coding\\10\uC6D4\\10.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B3E0DFA6-9ACE-4DB0-B9DE-D153C2D3AECE}|TIL_Coding\\TIL_Coding.vcxproj|solutionrelative:TIL_Coding\\10\uC6D4\\10.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B3E0DFA6-9ACE-4DB0-B9DE-D153C2D3AECE}|TIL_Coding\\TIL_Coding.vcxproj|C:\\Users\\starp\\OneDrive\\Develop\\Project\\Study\\Algorithms\\TIL_Coding\\TIL_Coding\\10\uC6D4\\12.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3E0DFA6-9ACE-4DB0-B9DE-D153C2D3AECE}|TIL_Coding\\TIL_Coding.vcxproj|solutionrelative:TIL_Coding\\10\uC6D4\\12.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3E0DFA6-9ACE-4DB0-B9DE-D153C2D3AECE}|TIL_Coding\\TIL_Coding.vcxproj|C:\\Users\\KOSTA\\OneDrive\\Develop\\Project\\Study\\Algorithms\\TIL_Coding\\TIL_Coding\\10\uC6D4\\9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B3E0DFA6-9ACE-4DB0-B9DE-D153C2D3AECE}|TIL_Coding\\TIL_Coding.vcxproj|solutionrelative:TIL_Coding\\10\uC6D4\\9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3E0DFA6-9ACE-4DB0-B9DE-D153C2D3AECE}|TIL_Coding\\TIL_Coding.vcxproj|C:\\Users\\KOSTA\\OneDrive\\Develop\\Project\\Study\\Algorithms\\TIL_Coding\\TIL_Coding\\10\uC6D4\\8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B3E0DFA6-9ACE-4DB0-B9DE-D153C2D3AECE}|TIL_Coding\\TIL_Coding.vcxproj|solutionrelative:TIL_Coding\\10\uC6D4\\8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B3E0DFA6-9ACE-4DB0-B9DE-D153C2D3AECE}|TIL_Coding\\TIL_Coding.vcxproj|C:\\Users\\starp\\OneDrive\\Develop\\Project\\Study\\Algorithms\\TIL_Coding\\TIL_Coding\\templete.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3E0DFA6-9ACE-4DB0-B9DE-D153C2D3AECE}|TIL_Coding\\TIL_Coding.vcxproj|solutionrelative:TIL_Coding\\templete.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +18,32 @@
       "DocumentGroups": [
         {
           "DockedHeight": 182,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "8.c",
-              "DocumentMoniker": "C:\\Users\\KOSTA\\OneDrive\\Develop\\Project\\Study\\Algorithms\\TIL_Coding\\TIL_Coding\\10\uC6D4\\8.c",
-              "RelativeDocumentMoniker": "TIL_Coding\\10\uC6D4\\8.c",
-              "ToolTip": "C:\\Users\\KOSTA\\OneDrive\\Develop\\Project\\Study\\Algorithms\\TIL_Coding\\TIL_Coding\\10\uC6D4\\8.c",
-              "RelativeToolTip": "TIL_Coding\\10\uC6D4\\8.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "12.c",
+              "DocumentMoniker": "C:\\Users\\starp\\OneDrive\\Develop\\Project\\Study\\Algorithms\\TIL_Coding\\TIL_Coding\\10\uC6D4\\12.c",
+              "RelativeDocumentMoniker": "TIL_Coding\\10\uC6D4\\12.c",
+              "ToolTip": "C:\\Users\\starp\\OneDrive\\Develop\\Project\\Study\\Algorithms\\TIL_Coding\\TIL_Coding\\10\uC6D4\\12.c",
+              "RelativeToolTip": "TIL_Coding\\10\uC6D4\\12.c",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwCYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-10-10T06:27:53.449Z",
+              "WhenOpened": "2024-10-12T05:15:42.933Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "9.c",
-              "DocumentMoniker": "C:\\Users\\KOSTA\\OneDrive\\Develop\\Project\\Study\\Algorithms\\TIL_Coding\\TIL_Coding\\10\uC6D4\\9.c",
-              "RelativeDocumentMoniker": "TIL_Coding\\10\uC6D4\\9.c",
-              "ToolTip": "C:\\Users\\KOSTA\\OneDrive\\Develop\\Project\\Study\\Algorithms\\TIL_Coding\\TIL_Coding\\10\uC6D4\\9.c",
-              "RelativeToolTip": "TIL_Coding\\10\uC6D4\\9.c",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAxAAAA",
+              "Title": "templete.c",
+              "DocumentMoniker": "C:\\Users\\starp\\OneDrive\\Develop\\Project\\Study\\Algorithms\\TIL_Coding\\TIL_Coding\\templete.c",
+              "RelativeDocumentMoniker": "TIL_Coding\\templete.c",
+              "ToolTip": "C:\\Users\\starp\\OneDrive\\Develop\\Project\\Study\\Algorithms\\TIL_Coding\\TIL_Coding\\templete.c",
+              "RelativeToolTip": "TIL_Coding\\templete.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-10-10T06:26:27.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "10.c",
-              "DocumentMoniker": "C:\\Users\\KOSTA\\OneDrive\\Develop\\Project\\Study\\Algorithms\\TIL_Coding\\TIL_Coding\\10\uC6D4\\10.c",
-              "RelativeDocumentMoniker": "TIL_Coding\\10\uC6D4\\10.c",
-              "ToolTip": "C:\\Users\\KOSTA\\OneDrive\\Develop\\Project\\Study\\Algorithms\\TIL_Coding\\TIL_Coding\\10\uC6D4\\10.c",
-              "RelativeToolTip": "TIL_Coding\\10\uC6D4\\10.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-10-10T06:05:23.234Z",
+              "WhenOpened": "2024-10-12T05:15:31.001Z",
               "EditorCaption": ""
             }
           ]
