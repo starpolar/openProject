@@ -1,0 +1,2 @@
+buttonController.c:7:6:checkButton	8	static
+buttonController.c:40:10:getSwState	8	static

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="LastUsedHeaderTemplate" value="Default C header template"/>
+	<section name="completion_proposal_size">
+	</section>
+	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration">
+		<item key="size.width" value="628"/>
+		<item key="size.height" value="548"/>
+		<item key="location.x" value="-1565"/>
+		<item key="location.y" value="208"/>
+	</section>
+	<section name="org.eclipse.cdt.internal.ui.typehierarchy.OpenTypeInHierarchyActionSettings">
+		<item key="show_namespaces" value="false"/>
+		<item key="show_classes" value="true"/>
+		<item key="show_structs" value="true"/>
+		<item key="show_typedefs" value="true"/>
+		<item key="show_enums" value="true"/>
+		<item key="show_unions" value="true"/>
+		<item key="show_functions" value="false"/>
+		<item key="show_variables" value="false"/>
+		<item key="show_enumerators" value="false"/>
+		<item key="show_macros" value="false"/>
+		<item key="show_lowlevel" value="true"/>
+		<item key="x" value="-1176"/>
+		<item key="y" value="78"/>
+		<item key="width" value="432"/>
+		<item key="height" value="663"/>
+	</section>
+	<section name="PDOMSearchPage">
+		<item key="caseSensitive" value="false"/>
+		<item key="searchFlags" value="227191"/>
+		<list key="previousPatterns">
+			<item value="TempSensorCount"/>
+			<item value="480"/>
+			<item value="FLASH_ACR_PRFTBE_Pos"/>
+			<item value="FLASH_ACR_PRFTBE_Msk"/>
+		</list>
+	</section>
+	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration.internal">
+		<item key="size.width" value="1109"/>
+		<item key="size.height" value="180"/>
+	</section>
+	<section name="CResourceRenameRefactoringInputPage">
+		<item key="updateReferences" value="true"/>
+	</section>
+</section>

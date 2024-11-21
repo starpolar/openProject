@@ -1,0 +1,2 @@
+먼저 128x64 픽셀을 만드세요.
+http://javl.github.io/image2cpp/ 
