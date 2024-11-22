@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;3rd/Core/Lib/Inc/horse_anim2.h&apos; to &apos;ojtube_log.h&apos;" description="Rename resource &apos;horse_anim2.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Lib/Inc/horse_anim2.h" name="ojtube_log.h" stamp="1656510503886" updateReferences="true"/>
-</session>
